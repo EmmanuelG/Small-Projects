@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.44099809"
-     inkscape:cx="175.0132"
-     inkscape:cy="675.35463"
+     inkscape:cx="165.94287"
+     inkscape:cy="589.18646"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -66,7 +66,10 @@
            height="260"
            x="65.714287"
            y="1302.5197" /></flowRegion><flowPara
-         id="flowPara4510">plaque de 5-6mm d'épaisseur</flowPara></flowRoot>    <circle
+         id="flowPara4510">6mm d'épaisseur au total</flowPara><flowPara
+         id="flowPara848" /><flowPara
+         id="flowPara850">plaque 4mm</flowPara><flowPara
+         id="flowPara852">rondelle 2mm</flowPara></flowRoot>    <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02816991;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4512"
        cx="-81.837502"
