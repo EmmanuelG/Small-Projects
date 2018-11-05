@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1048"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="test Piedestal.svg">
+  <defs
+     id="defs1042" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71503906"
+     inkscape:cx="483.9115"
+     inkscape:cy="615.941"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="27.381953,148.75062"
+       orientation="1,0"
+       id="guide1601"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="49.585011,115.06971"
+       orientation="0,1"
+       id="guide1603"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#fc0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 49.585012,122.06262 v 59.86767 h 39.867852 l 0.0274,0.0817 c 0,-4.10898 1.246291,-13.37269 -3.674711,-8.45169 -0.783957,0.78395 -0.3795,2.95196 -1.102259,3.67472 -0.545291,0.5453 -3.392189,0.66775 -4.593511,0.36741 -3.11431,-0.77857 -2.757199,-1.51651 -8.084777,-2.20503 -4.267571,-0.55151 -7.742381,1.94323 -10.105332,0.36793 -3.829918,-2.55328 -0.253849,-4.75896 -1.10277,-9.00357 -0.909339,-4.54673 -4.067368,-2.64784 -5.328359,-6.98201 -0.780669,-2.68324 1.653759,-4.47062 0.91881,-9.37048 -0.37407,-2.49386 -1.49657,-1.659 -2.93988,-6.98201 -1.17998,-4.35187 3.00651,-4.5147 0,-11.2081 -1.89015,-4.20802 5.970071,-10.25443 -3.88245,-10.15649 z"
+       id="path831-9-3-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#fc0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 68.083394,174.43615 V 114.56849 H 28.215531 l -0.0274,-0.0816 c 0,4.10898 -1.24628,13.37268 3.674707,8.45168 0.783961,-0.78395 0.379501,-2.95196 1.102263,-3.67471 0.545298,-0.5453 3.392199,-0.66775 4.593521,-0.36742 3.11431,0.77857 2.7572,1.51652 8.08478,2.20503 4.26757,0.55152 7.74238,-1.94323 10.105331,-0.36793 3.829918,2.55328 0.253849,4.75896 1.10277,9.00358 0.909339,4.54673 4.067368,2.64783 5.328359,6.982 0.780669,2.68325 -1.653759,4.47063 -0.91881,9.37049 0.37407,2.49386 1.49656,1.65899 2.939872,6.982 1.179989,4.35187 -3.006513,4.51471 0,11.2081 1.890149,4.20803 -5.970063,10.25443 3.882459,10.15649 z"
+       id="path831-9-8-0-79" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.381954,168.97086 v 12.95943 h 10.730764 v 0"
+       id="path1605"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
