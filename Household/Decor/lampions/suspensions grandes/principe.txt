@@ -8,5 +8,6 @@ second épaulement avec congé 19,5mm x 2mm
 
 plaque + rondelle = 7mm
 
-ex. plaque pmma 4mm = rondelle 3mm
-ex. plaque pmma 5mm = rondelle 2mm
+plaque 2mm = rondelle 5mm
+plaque 4mm = rondelle 3mm
+plaque 5mm = rondelle 2mm
