@@ -1,0 +1,1 @@
+This project is CC-BY-NC (that may change later)
